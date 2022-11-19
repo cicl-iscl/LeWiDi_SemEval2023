@@ -8,3 +8,9 @@ https://ojs.aaai.org/index.php/HCOMP/article/view/7478
 https://aclanthology.org/2021.semeval-1.186/
 -only paper of the challenge from last year, using crowd layer
 -(guess we can use that to see what is ultimatly required)
+
+We Need to Consider Disagreement in Evaluation - Valerio Basile (one of the organizers)
+https://aclanthology.org/2021.bppf-1.3.pdf
+- Overview of Learning with Disagreement
+- Recap of 2021 Challenge Results
+
