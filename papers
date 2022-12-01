@@ -22,6 +22,7 @@ https://link.springer.com/article/10.1007/s10994-019-05867-2
 - Gaussian process preference learning - Bayes based
 - account for disagreement among annotators ?-> controversy prediction
 - Used as base model of 2021 humour preference learning set
+- GitHub with model: https://github.com/UKPLab/tacl2018-preference-convincing/tree/crowdGPPL
 
 Semi-supervised learning by disagreement
 https://link.springer.com/article/10.1007/s10115-009-0209-z
